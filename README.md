@@ -1,6 +1,6 @@
 # API-funnel-php
  
-API GET Request http://localhost/?apiKey=<key>&host=<host>
+API GET Request http://localhost/?apiKey=key&host=host
 
 
 ## Basic Usage
